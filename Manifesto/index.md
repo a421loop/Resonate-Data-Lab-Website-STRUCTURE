@@ -78,4 +78,3 @@ Our vision for sound, data, and human-centered design.
 - Sound is a design element.
 - Sound is context.
 
-*Add more audio files here as you create them*
