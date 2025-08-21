@@ -11,10 +11,10 @@ The **Resonate Data Lab Sound Archive** collects meaningful, beautiful, or memor
 
 ## How It Works
 
-1. **Listen Back & Choose a Sound**  
+1. **Choose a Moment and Record it**  
    Find a sound that matters to you. It could be anything—a creaking swing, birds in a park, footsteps, a favorite snack being eaten, or a quiet moment at home.  
 
-2. **Describe It**  
+2. **Reflect on it**  
    Use a few sentences to answer:  
    - What are we hearing?  
    - Where and when was it recorded?  
