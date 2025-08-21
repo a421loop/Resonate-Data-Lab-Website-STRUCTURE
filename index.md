@@ -10,7 +10,7 @@ Welcome to **Resonate Data Lab**!
 
 Listen to the cafe this website was born in:
 <audio controls>
-  <source src="/assets/Colville Street Patisserie 2.m4a" type="audio/mpa">
+  <source src="/assets/Colville Street Patisserie 2.m4a" type="audio/mp4">
   
   Your browser does not support the audio element.
 </audio>
