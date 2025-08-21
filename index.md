@@ -9,7 +9,7 @@ title: hi
 Welcome to **Resonate Data Lab**!
 
 <audio controls>
-  <source src="/assets/Resonate data lab hehe.m4a" type="audio/mpa">
+  <source src="/assets/Resonate data lab hehe.mp4" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
 
