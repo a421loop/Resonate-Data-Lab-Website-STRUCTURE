@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-
+#### hi
 ![Cassette tape animation](/assets/cassette-animation.gif)
 
 Welcome to **Resonate Data Lab**!
