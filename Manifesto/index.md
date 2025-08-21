@@ -10,12 +10,11 @@ Our vision for sound, data, and human-centered design.
 ## Listen to Our Vision
 
 <audio controls>
-  <source src="/assets/manifesto-audio.mp3" type="audio/mpeg">
-  <source src="/assets/manifesto-audio.wav" type="audio/wav">
+  <source src="/assets/Resonate data lab hehe.m4a" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
-
-*[transcript here]*
+*transcript here*
+Sarena saying Resonate Data Lab
 
 ---
 
