@@ -4,7 +4,7 @@ title: hi
 ---
 
 #### hi
-![Cassette tape animation](/assets/cassette-animation.gif)
+![tape-animated](/assets/tape-animated.gif)
 
 Welcome to **Resonate Data Lab**!
 
