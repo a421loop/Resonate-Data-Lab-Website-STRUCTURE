@@ -15,7 +15,7 @@ Welcome to **Resonate Data Lab**!
 
 Resonate Data Lab is a space where sound, data and human centered design interact, resonate with experimentation and listening.
 
-## Explore the class
+## Explore Your Life in Sound: Listening with Your Ears and with Technology
 
 [Class](/class) |[Toolbox](/toolbox)
 
