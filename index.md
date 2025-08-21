@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Home
 
 ![Cassette tape animation](/assets/cassette-animation.gif)
 
