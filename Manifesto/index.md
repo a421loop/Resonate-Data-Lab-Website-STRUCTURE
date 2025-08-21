@@ -21,9 +21,9 @@ Our vision for sound, data, and human-centered design.
 
 # Resonate Data Lab Sound Manifesto
 
- ## Deo
+## Deo
 - Sound is an extension of a body. It's an extension of how we as a people interact, reflect, and live.
-- Sound is that element that always knows what to say when we don’t.
+- Sound is that element that always knows what to say when we don't.
 - Sound is what makes things visible
 - Sound is a friend, adventure guide, and teacher
 - Sound is empowering
@@ -43,16 +43,15 @@ Our vision for sound, data, and human-centered design.
 - Sound shapes individuals/individuality.
 - Everyone has different experiences (past and present) with sound.
 - Sound is contradictory/multifaceted (ugly and beautiful, loud and quiet, sharp and soft, new and expected).
-  
-## Sarena's Sound is
 
-- Sound is the most direct medium of all.  
-- Sound is tangible.  
-- Sound touches from afar.  
-- Sound is political.  
-- Sound is resistance.  
-- Sound is intimate.  
-- Sound is layered storytelling with different layers prominent or not for different listeners.  
+## Sarena's Sound is
+- Sound is the most direct medium of all.
+- Sound is tangible.
+- Sound touches from afar.
+- Sound is political.
+- Sound is resistance.
+- Sound is intimate.
+- Sound is layered storytelling with different layers prominent or not for different listeners.
 - Sound is as ever present as everyday life.
 
 ## Jordan's Sound Manifesto
@@ -60,7 +59,7 @@ Our vision for sound, data, and human-centered design.
 - Sound is a medium for making: making meaning, making connections, making the familiar strange and the strange familiar.
 - Sound is something you can tune into (or tune out of).
 - Sound is always there, whether you are listening to it or not.
-- Sound is now: Sound is happening in this moment. 
+- Sound is now: Sound is happening in this moment.
 - Sound is in all directions at once. Sound also moves through you.
 - (You can capture sound, sort of, but not the experience of listening?)
 - Sound is a gulf and direct contact, at the same time.
@@ -78,6 +77,5 @@ Our vision for sound, data, and human-centered design.
 - Sound is more than physical.
 - Sound is a design element.
 - Sound is context.
-
 
 *Add more audio files here as you create them*
