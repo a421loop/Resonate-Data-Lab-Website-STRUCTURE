@@ -47,13 +47,13 @@ body {
   opacity: 0;
   visibility: hidden;
 }
-
 .tape-gif {
-  max-width: 300px;
+  max-width: 500px;  
   width: 100%;
   height: auto;
   margin-bottom: 2rem;
 }
+
 
 .intro-text {
   font-family: 'Space Grotesk', sans-serif;
