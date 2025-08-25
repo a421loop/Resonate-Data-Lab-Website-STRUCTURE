@@ -3,30 +3,53 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} - Resonate Data Lab</title>
   <link rel="stylesheet" href="/assets/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header>
-    <h1><a href="{{ '/' | relative_url }}">Resonate Data Lab</a></h1>
-    <nav>
-      <a href="{{ '/About' | relative_url }}">About</a>
-      <a href="{{ '/Team' | relative_url }}">Team</a>
-      <a href="{{ '/Projects' | relative_url }}">Projects</a>
-      <a href="{{ '/class' | relative_url }}">Class</a>
-      <a href="{{ '/CTUIR camp' | relative_url }}">CTUIR Camp</a>
-      <a href="{{ '/Manifesto' | relative_url }}">Manifesto</a>
-      <a href="{{ '/toolbox' | relative_url }}">Toolbox</a>
-      <a href="{{ '/Contribute A Moment' | relative_url }}">Contribute A Moment</a>
-      <a href="{{ '/contact' | relative_url }}">Contact</a>
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>
-    <p>&copy; made with care and coffee by the RDL Summer'25 Team</p>
-  </footer>
+  <!-- Cassette Tape Intro -->
+  {% if page.url == "/" %}
+  <div class="tape-intro" id="tapeIntro">
+    <img src="/assets/tape-animated.gif" alt="Animated cassette tape" class="tape-gif">
+    <div class="intro-text">preparing the lab for you...</div>
+  </div>
+  {% endif %}
+
+  <!-- Main Site -->
+  <div class="main-site" id="mainSite">
+    <header>
+      <div class="header-content">
+        <a href="{{ '/' | relative_url }}" class="logo">Resonate Data Lab</a>
+        <button class="menu-toggle" onclick="toggleMenu()">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+        <nav id="mainNav">
+          <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+          <a href="{{ '/About' | relative_url }}" class="nav-link {% if page.url contains '/About' %}active{% endif %}">About</a>
+          <a href="{{ '/Team' | relative_url }}" class="nav-link {% if page.url contains '/Team' %}active{% endif %}">Team</a>
+          <a href="{{ '/Projects' | relative_url }}" class="nav-link {% if page.url contains '/Projects' %}active{% endif %}">Research</a>
+          <a href="{{ '/Contribute A Moment' | relative_url }}" class="nav-link {% if page.url contains '/Contribute' %}active{% endif %}">Contribute</a>
+          <a href="{{ '/toolbox' | relative_url }}" class="nav-link {% if page.url contains '/toolbox' %}active{% endif %}">Resources</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; made with care and coffee by the RDL Summer'25 Team</p>
+    </footer>
+  </div>
+
   <script src="/assets/script.js"></script>
 </body>
 </html>
