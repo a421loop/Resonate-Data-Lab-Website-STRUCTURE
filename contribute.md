@@ -7,7 +7,6 @@ title: Contribute a Sound
 
 The **Resonate Data Lab Sound Archive** collects meaningful, beautiful, or memorable sounds from everyday life. Anyone can donate a moment of sound and share the story behind it.
 
----
 
 ## How It Works
 
@@ -28,7 +27,7 @@ The **Resonate Data Lab Sound Archive** collects meaningful, beautiful, or memor
    - Your name or initials (optional)  
    - Optional: permission for others to remix it  
 
----
+
 
 ## Why Contribute?
 
@@ -39,7 +38,7 @@ Archiving sounds helps us:
 
 IDEA FOR LATERR Every donated sound may appear in the **landing page randomiser**, letting visitors experience the archive one moment at a time.
 
----
+
 
 ## Ready to Donate?
 
@@ -50,4 +49,4 @@ IDEA FOR LATERR Every donated sound may appear in the **landing page randomiser*
 
 **Tips:**  
 - what tips would i give a first time recorder???
----
+
