@@ -75,11 +75,12 @@ function randomizeManifesto() {
   textElement.classList.remove('show');
   
   setTimeout(() => {
-    const randomQuote = manifestoQuotes[Math.floor(Math.random() * manifestoQuotes.length)];
-    textElement.textContent = randomQuote.text;
-    authorElement.textContent = `— ${randomQuote.author}`;
-    textElement.classList.add('show');
-  }, 250);
-}
-
+  tapeIntro.classList.add('hidden');
+  setTimeout(() => {
+    document.getElementById('mainSite').classList.add('visible');
+    // Initialize with a random manifesto quote
+    randomizeManifesto();
+  }, 500);
+}, 1500);
+  
 console.log('Resonate Data Lab site loaded.');
