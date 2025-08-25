@@ -12,7 +12,7 @@ title: Resonate Data Lab
     <h3>Our Sound Manifesto</h3>
     <div class="manifesto-quote" id="manifestoText">Click below to explore our team's thoughts on sound</div>
     <div class="manifesto-author" id="manifestoAuthor"></div>
-    <button class="new-quote-btn" onclick="randomizeManifesto()">New Sound Thought</button>
+    <button class="new-quote-btn" onclick="randomizeManifesto()">I want another one:)</button>
   </div>
 </div>
 
