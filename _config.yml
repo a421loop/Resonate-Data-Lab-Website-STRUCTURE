@@ -1,3 +1,10 @@
 title: Resonate Data Lab 
 description: Resonate Data Lab is a space where sound, data and human centered design interact, resonate with experimentation and listening.
 markdown: kramdown
+
+# GitHub Pages settings
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# baseurl: "/Resonate-Data-Lab-Website-STRUCTURE"
