@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contribute a Sound
+title: Contribute
 ---
 
 # Contribute a Moment of Sound
