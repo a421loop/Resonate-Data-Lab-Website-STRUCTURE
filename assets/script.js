@@ -64,23 +64,21 @@ function playAudio(audioId) {
   });
 }
 
-// Manifesto randomizer
+
 function randomizeManifesto() {
   const textElement = document.getElementById('manifestoText');
   const authorElement = document.getElementById('manifestoAuthor');
-  
+
   if (!textElement || !authorElement) return;
-  
-  // Fade out
+
+  const randomQuote = manifestoQuotes[Math.floor(Math.random() * manifestoQuotes.length)];
+
   textElement.classList.remove('show');
-  
   setTimeout(() => {
-  tapeIntro.classList.add('hidden');
-  setTimeout(() => {
-    document.getElementById('mainSite').classList.add('visible');
-    // Initialize with a random manifesto quote
-    randomizeManifesto();
+    textElement.textContent = `"${randomQuote.text}"`;
+    authorElement.textContent = `– ${randomQuote.author}`;
+    textElement.classList.add('show');
   }, 500);
-}, 1500);
+}
   
 console.log('Resonate Data Lab site loaded.');
