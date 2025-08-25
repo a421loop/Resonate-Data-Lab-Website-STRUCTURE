@@ -123,16 +123,7 @@ nav a.active {
   color: var(--secondary);
 }
 
-nav a.active::after {
-  content: '';
-  position: absolute;
-  bottom: -8px;
-  left: 0;
-  right: 0;
-  height: 2px;
-  background: var(--accent);
-  border-radius: 1px;
-}
+
 
 .menu-toggle {
   display: none;
