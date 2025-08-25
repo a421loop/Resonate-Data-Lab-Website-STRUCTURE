@@ -12,8 +12,9 @@
 <body>
   <!-- Cassette Tape Intro -->
   {% if page.url == "/" %}
+  
   <div class="tape-intro" id="tapeIntro">
-    <img src="/assets/tape-animated.gif" alt="Animated cassette tape" class="tape-gif">
+    <img src="{{ '/assets/tape-animated.gif' | relative_url }}" alt="Animated cassette tape" class="tape-gif">
     <div class="intro-text">preparing the lab for you...</div>
   </div>
   {% endif %}
