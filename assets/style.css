@@ -271,17 +271,6 @@ li {
   50% { height: 40px; opacity: 1; }
 }
 
-/* Manifesto Section */
-.manifesto-section {
-  background: var(--primary);
-  color: var(--white);
-  padding: 3rem;
-  border-radius: 16px;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  margin: 2rem 0;
-}
 
 .manifesto-content {
   position: relative;
@@ -298,6 +287,7 @@ li {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: var(--primary); /* ensures readability */
 }
 
 .manifesto-quote.show {
