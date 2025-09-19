@@ -71,6 +71,15 @@ function randomizeManifesto() {
 
   if (!textElement || !authorElement) return;
 
+
+
+
+function randomizeManifesto() {
+  const textElement = document.getElementById('manifestoText');
+  const authorElement = document.getElementById('manifestoAuthor');
+
+  if (!textElement || !authorElement) return;
+    // pick a random quote
   const randomQuote = manifestoQuotes[Math.floor(Math.random() * manifestoQuotes.length)];
 
   textElement.classList.remove('show');
@@ -79,6 +88,14 @@ function randomizeManifesto() {
     authorElement.textContent = `– ${randomQuote.author}`;
     textElement.classList.add('show');
   }, 500);
+}
+
+// call once at start
+randomizeManifesto();
+
+// set to rotate every 30 seconds
+setInterval(randomizeManifesto, 30000);
+
 }
   
 console.log('Resonate Data Lab site loaded.');
