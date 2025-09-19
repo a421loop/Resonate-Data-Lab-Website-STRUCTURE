@@ -5,34 +5,31 @@ title: Manifesto
 
 # Manifesto
 
-Our vision for sound, data, and human-centered design.
-
 ## Listen to Our Vision
 
 <audio controls>
   <source src="/assets/Resonate data lab hehe.m4a" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
-*transcript here*
-Sarena saying Resonate Data Lab
 
 ---
 
-# Resonate Data Lab Sound Manifesto
-
+<div class="manifesto-quote">
 ## Deo
 - Sound is an extension of a body. It's an extension of how we as a people interact, reflect, and live.
 - Sound is that element that always knows what to say when we don't.
-- Sound is what makes things visible
-- Sound is a friend, adventure guide, and teacher
-- Sound is empowering
-- Sound comforting
-- Some embraces, pushes, and fights with you
-- Sound never walks out, always present
-- Sound is gentle, cruel, big
-- Sound holds, it pours, and connects
-- Sound is a witness to time
+- Sound is what makes things visible.
+- Sound is a friend, adventure guide, and teacher.
+- Sound is empowering.
+- Sound comforting.
+- Some embraces, pushes, and fights with you.
+- Sound never walks out, always present.
+- Sound is gentle, cruel, big.
+- Sound holds, it pours, and connects.
+- Sound is a witness to time.
+</div>
 
+<div class="manifesto-quote">
 ## Catelyn's Sound Manifesto
 - Sound acts as reassurance for interaction.
 - Sound can be a means for expression (you in the present), understanding/awareness (of your surroundings), reflection (you in the past), and communication (you with others).
@@ -42,7 +39,9 @@ Sarena saying Resonate Data Lab
 - Sound shapes individuals/individuality.
 - Everyone has different experiences (past and present) with sound.
 - Sound is contradictory/multifaceted (ugly and beautiful, loud and quiet, sharp and soft, new and expected).
+</div>
 
+<div class="manifesto-quote">
 ## Sarena's Sound is
 - Sound is the most direct medium of all.
 - Sound is tangible.
@@ -52,7 +51,9 @@ Sarena saying Resonate Data Lab
 - Sound is intimate.
 - Sound is layered storytelling with different layers prominent or not for different listeners.
 - Sound is as ever present as everyday life.
+</div>
 
+<div class="manifesto-quote">
 ## Jordan's Sound Manifesto
 - Sound is vibrations in matter...that connect that matter together.
 - Sound is a medium for making: making meaning, making connections, making the familiar strange and the strange familiar.
@@ -64,7 +65,9 @@ Sarena saying Resonate Data Lab
 - Sound is a gulf and direct contact, at the same time.
 - Sound invites us to wonder.
 - Sound is always in flux. Sound is motion.
+</div>
 
+<div class="manifesto-quote">
 ## Liuyi's Sound is
 - Sound is a fundamental part of how I perceive, understand, and interact with the world.
 - Sound is information.
@@ -76,4 +79,4 @@ Sarena saying Resonate Data Lab
 - Sound is more than physical.
 - Sound is a design element.
 - Sound is context.
-
+</div>
