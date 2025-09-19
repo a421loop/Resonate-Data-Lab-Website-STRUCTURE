@@ -301,6 +301,8 @@ li {
 }
 
 .new-quote-btn {
+  display: block;
+  margin: 0 auto;
   background: var(--accent);
   color: var(--primary);
   border: none;
