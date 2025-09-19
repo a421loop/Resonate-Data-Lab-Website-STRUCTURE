@@ -33,10 +33,9 @@
         </button>
          
        <nav id="mainNav">
-        <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
         <a href="{{ '/About/' | relative_url }}" class="nav-link {% if page.url contains '/About' %}active{% endif %}">About</a>
         <a href="{{ '/Team/' | relative_url }}" class="nav-link {% if page.url contains '/Team' %}active{% endif %}">Team</a>
-        <a href="{{ '/Projects/' | relative_url }}" class="nav-link {% if page.url contains '/Projects' %}active{% endif %}">Research</a>
+        <a href="{{ '/Projects/' | relative_url }}" class="nav-link {% if page.url contains '/Projects' %}active{% endif %}">Projects</a>
         <a href="{{ '/contribute/' | relative_url }}" class="nav-link {% if page.url contains '/contribute' %}active{% endif %}">Contribute</a>
         <a href="{{ '/toolbox/' | relative_url }}" class="nav-link {% if page.url contains '/toolbox' %}active{% endif %}">Resources</a>
       </nav>
