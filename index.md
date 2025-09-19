@@ -5,7 +5,7 @@ title: Resonate Data Lab
 
 # Welcome to Resonate Data Lab
 
-*A space where sound, data and human centered design interact, resonate with experimentation and listening.*
+*A space where everyday data transforms into sound and design*
 
 <div class="manifesto-section">
   <div class="manifesto-content">
