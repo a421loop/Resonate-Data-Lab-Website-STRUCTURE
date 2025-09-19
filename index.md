@@ -15,10 +15,3 @@ title: Resonate Data Lab
     <button class="new-quote-btn" onclick="randomizeManifesto()">I want another one:)</button>
   </div>
 </div>
-
-## Explore Your Life in Sound: Listening with Your Ears and with Technology
-
-*Explore the Fall 2025 links below*
-- [syllabus](https://docs.google.com/document/d/1xupQy83nfSL-MqOwzLhr6ElUiEZa6HwEdW2dzIuvONg/edit?tab=t.0#heading=h.d36dffgjw5gi)
-- [canvas course]
-- 
