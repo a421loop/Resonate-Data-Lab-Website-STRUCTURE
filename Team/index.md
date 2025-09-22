@@ -29,13 +29,13 @@ the sound of false fire alarms in Prentiss
 ## Liuyi 
 
 **A sound you love...**  
-the sound of slow footsteps  
+crunching cucumber 
 
 **A sound you hate...**  
-the sound of false fire alarms in Prentiss  
+fire alarms
 
 **Short bio (1–3 sentences)**  
-<!-- Write your bio here, similar to the example given -->  
+I’m a double major in Computer Science and Psychology at Whitman College. I like biking, public transit, and waking up to rain on weekends.
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
