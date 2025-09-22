@@ -7,4 +7,8 @@ title: Summer Team Projects
 
 Ongoing and past student research. Sorted by sound, visuals, tools, etc.
 
+## Name 
+*tags*
+short description here
+
 ---
