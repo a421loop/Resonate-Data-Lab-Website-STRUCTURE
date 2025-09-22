@@ -117,13 +117,13 @@ the sound of false fire alarms in Prentiss
 ## Liuyi
 
 **A sound you love...**  
-crunching cucumber
+the sound of slow footsteps
 
 **A sound you hate...**  
-fire alarm
+the sound of false fire alarms in Prentiss  
 
 **Short bio (1–3 sentences)**  
-I’m a double major in Computer Science and Psychology at Whitman College. I like biking, public transit, and waking up to rain on weekends.
+<!-- Write your bio here, similar to the example given -->  
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
