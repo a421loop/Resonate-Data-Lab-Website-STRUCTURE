@@ -83,13 +83,13 @@ the sound of false fire alarms in Prentiss
 ## Catelyn 
 
 **A sound you love...**  
-the sound of slow footsteps  
+The sound of waves lapping against a shore. 
 
 **A sound you hate...**  
-the sound of false fire alarms in Prentiss  
+The sound of book pages rubbing together.
 
 **Short bio (1–3 sentences)**  
-<!-- Write your bio here, similar to the example given -->  
+I am a current Whitman College undergraduate student majoring in Computer Science and minoring in Data Science.  While I can't claim to have any musical talents, I've come to appreciate sound as a medium for awareness, communication, reflection, and design.  I love video games, fantasy and science fiction books, water sports, and spending time with loved ones. 
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
