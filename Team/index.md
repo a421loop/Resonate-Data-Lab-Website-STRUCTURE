@@ -114,16 +114,16 @@ the sound of false fire alarms in Prentiss
 **A photo you want to share that represents you in some way**  
 *(Upload 1 supported file. Max 100 MB.)*  
 
-## NAME 
+## Liuyi
 
 **A sound you love...**  
-the sound of slow footsteps  
+crunching cucumber
 
 **A sound you hate...**  
-the sound of false fire alarms in Prentiss  
+fire alarm
 
 **Short bio (1–3 sentences)**  
-<!-- Write your bio here, similar to the example given -->  
+I’m a double major in Computer Science and Psychology at Whitman College. I like biking, public transit, and waking up to rain on weekends.
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
