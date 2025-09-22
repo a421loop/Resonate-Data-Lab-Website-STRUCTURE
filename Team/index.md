@@ -100,13 +100,13 @@ the sound of false fire alarms in Prentiss
 ## Jordan 
 
 **A sound you love...**  
-the sound of slow footsteps  
+The sounds of my kids laughing
 
 **A sound you hate...**  
-the sound of false fire alarms in Prentiss  
+The sound of my coffee grinder (even though I love coffee)  
 
 **Short bio (1–3 sentences)**  
-<!-- Write your bio here, similar to the example given -->  
+I’m an assistant professor of computer science at Whitman College. My research seeks to bring data into our everyday lives as a creative material by engaging all of our senses, especially sound. I am an avid trail runner, am fascinated and terrified by mountain lions, and love board games.
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
