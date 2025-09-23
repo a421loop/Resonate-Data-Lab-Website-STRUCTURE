@@ -3,9 +3,7 @@ layout: default
 title: Manifesto
 ---
 
-# Manifesto
-
-## Listen to Our Vision
+# [Manifesto](full_manifesto.md)
 
 <audio controls>
   <source src="/assets/Resonate data lab hehe.m4a" type="audio/mp4">
