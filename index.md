@@ -5,9 +5,7 @@ title: "Our Sound Manifesto"
 
 
 # Welcome to Resonate Data Lab
-
-*A space where everyday data transforms into sound and design*
-
+Using data, technology, and all of our senses --- especially sound --- to engage creatively with data.
 <div class="manifesto-section">
   <div class="manifesto-content">
     <h3>
