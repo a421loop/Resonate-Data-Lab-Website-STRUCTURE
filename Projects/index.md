@@ -7,9 +7,13 @@ title: Summer Team Projects
 
 Ongoing and past student research. Sorted by sound, visuals, tools, etc.
 
-## Name 
-*tags*
-short description here
+## Catelyn 
+- *tags*
+- short description here
+
+## Deo 
+- *tags*
+- short description here
 
 ## Liuyi
 ### Exploring Language Through a Generative Mood Tracker
@@ -18,4 +22,7 @@ How do we translate the intangible experience of mood into something we can hear
 
 The app invites users to log their momentary mood once per day within a randomly generated one-hour window, documenting their emotional state through structured prompts designed for sonic generation. Their written reflections are transformed into AI-generated sounds using various musical and ambient labels, but these sounds remain unheard until the next day's entry is complete. This gap in time allows the generated sound to be encountered fresh, without the pressure of matching preconceived sonic expectations.
 
+## Evita 
+- *tags*
+- short description here
 ---
