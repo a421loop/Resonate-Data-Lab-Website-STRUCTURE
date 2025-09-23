@@ -3,6 +3,7 @@
 It’s our hope that this lab will help people recognize sound as more than secondary/supporting medium. We see sound as a form of memory, intelligence, and connection. 
 Without sound, we would lose the voices, pulses, and atmospheres that carry culture, identity, and care across time. Just as archives preserve traces of the past, sonic archives preserve how it felt to live in a moment: the breath before a word, the hum of a machine, the resonance of a shared space.
 
+# The founding members of the team and how they see sound:
 ## Catelyn's sound manifesto
 - Sound acts as reassurance for interaction.
 - Sound can be a means for expression (you in the present), understanding/awareness (of your surroundings), reflection (you in the past), and communication (you with others).
