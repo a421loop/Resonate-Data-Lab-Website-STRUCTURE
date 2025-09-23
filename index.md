@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Resonate Data Lab
+title: "Our Sound Manifesto"
 ---
+
 
 # Welcome to Resonate Data Lab
 
@@ -10,7 +11,7 @@ title: Resonate Data Lab
 <div class="manifesto-section">
   <div class="manifesto-content">
     <h3>
-      <a href="full_manifesto.md">Our Sound Manifesto</a>
+      <a href="full_manifesto.html">Our Sound Manifesto</a>
     </h3>
     <div class="manifesto-quote" id="manifestoText">
       Click below to explore our team's thoughts on sound
