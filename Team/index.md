@@ -47,13 +47,13 @@ I’m a double major in Computer Science and Psychology at Whitman College. I li
 ## Deo 
 
 **A sound you love...**  
-the sound of slow footsteps  
+The sound of an elephant drinking water 
 
 **A sound you hate...**  
-the sound of false fire alarms in Prentiss  
+The sound of glass breaking  
 
 **Short bio (1–3 sentences)**  
-<!-- Write your bio here, similar to the example given -->  
+<!I like to think of myself as a storyteller. I am a strong enthusiast of what influences our behavior, and recently I have fallen in love with sound and how we interact with it.  I am a second year Brain Behavior and Cognition Major at Whitman College, and i love bird watching and writing. -->  
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
