@@ -65,13 +65,13 @@ the sound of false fire alarms in Prentiss
 ## Evita 
 
 **A sound you love...**  
-the sound of slow footsteps  
+heavy rain 
 
 **A sound you hate...**  
-the sound of false fire alarms in Prentiss  
+the sound of cracking knuckles
 
 **Short bio (1–3 sentences)**  
-<!-- Write your bio here, similar to the example given -->  
+I am a computer science student at Whitman, originally from Nepal. I’m obsessed with my dogs, always have a few hyper-fixation songs on repeat,  love traveling to new places whenever I can and my biggest fear is heights! 
 
 **An audio file you want to share**  
 *(Upload 1 supported file. Max 100 MB.)*  
